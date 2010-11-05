@@ -23,6 +23,7 @@ import javax.crypto.SecretKey;
 import javax.crypto.spec.SecretKeySpec;
 import javax.inject.Inject;
 import javax.inject.Named;
+import javax.inject.Singleton;
 
 import org.apache.commons.codec.binary.Base64InputStream;
 import org.apache.commons.codec.binary.Base64OutputStream;
@@ -35,6 +36,7 @@ import org.slf4j.Logger;
  * @since 1.0
  */
 @Named
+@Singleton
 public class RsaAesEncryptor
     implements Encryptor
 {
