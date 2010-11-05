@@ -9,7 +9,7 @@ import java.security.PrivateKey;
 import java.security.PublicKey;
 
 /**
- * ???
+ * Provides a simple interface for encrypting/decrypting.
  *
  * @since 1.0
  */

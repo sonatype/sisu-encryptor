@@ -30,7 +30,7 @@ import org.codehaus.plexus.util.IOUtil;
 import org.slf4j.Logger;
 
 /**
- * ???
+ * RSA AES {@link org.sonatype.sisu.encryptor.Encryptor}.
  *
  * @since 1.0
  */
