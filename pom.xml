@@ -24,7 +24,7 @@
     <groupId>org.sonatype.sisu</groupId>
     <artifactId>sisu-encryptor</artifactId>
     <name>Sisu Encryptor</name>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
